@@ -1,9 +1,9 @@
 body {
-	background-image: url(https://cdn.discordapp.com/attachments/587307618155102257/708653570047868969/30048.jpg);
+	background-image: url(images/main_zelda_background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	text-align: center;
-    	font-family: Arial;
+    font-family: Verdana;
 }
 
 .InteriorLink {
@@ -20,6 +20,7 @@ body {
 	border: 3px;
 	text-decoration: none;
 	text-align: center;
+	color: black;
 }
 
 .WebsiteLink:hover {
@@ -117,7 +118,7 @@ body {
 }
 
 .introduction {
-	font-size: 18px;
+	font-size: 16.5px;
 }
 
 
